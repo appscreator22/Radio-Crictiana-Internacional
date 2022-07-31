@@ -19,7 +19,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://17643.live.streamtheworld.com/FM93_SC",
-            active: true,
+            active: false,
         },
         {
             name:"Nuevo Tiempo (España)",
@@ -28,7 +28,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://n09.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABgkuZ4-sAsGG8Dm9fqzgT-w",
-            active: true,
+            active: false,
         },
         {
             name:"Nou Temps Radio",
@@ -37,7 +37,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://n06.radiojar.com/kr7r6x2gmg5tv?rj-ttl=5&rj-tok=AAABgkuan7gAPWsBbvsNwP0r9g",
-            active: true,
+            active: false,
         },
         {
             name:"Radio Renacer",
@@ -46,7 +46,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://chileservidores.cl/audio/?p=8044",
-            active: true,
+            active: false,
         },
         {
             name:"WXHL Reach Gospel Radio",
@@ -55,7 +55,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://ice7.securenetsystems.net/WXHL",
-            active: true,
+            active: false,
         },
         {
             name:"Cristianos Radio",
@@ -64,7 +64,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#191516", "#82698E"],
             audio: "https://emisorasvirtuales.com.co:9489/live",
-            active: true,
+            active: false,
         },
         {
             name:"Cristiana 90",
@@ -73,7 +73,7 @@ function chillHop() {
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://puertoplataradio.com/8040/stream/1/",
-            active: true,
+            active: false,
         },
         {
             name:"Top Cristiano Radio",
@@ -82,16 +82,8 @@ function chillHop() {
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
-            active: true,
+            active: false,
         },
-        {
-            name:"Vision Christian Radio",
-            artist: "Vision Christian Radio",
-            cover: "https://img.freepik.com/vector-gratis/microfono-auriculares-retro-imagen-realista_1284-14415.jpg",
-            id: uuidv4(),
-            color: ["#FDE1A9", "#A46874"],
-            audio: "https://streams2.vision.org.au/vision.mp3",
-            active: true,
         
        
 
